@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2ok-k&label=Profile%20views&color=0e75b6&style=flat" alt="2ok-k" /> </p>
 
-- 🌱 I’m currently learning **java, spring boot, javascript, typescript, angular, nestjs**
+- 🌱 I’m currently learning **javascript, typescript, nestjs, java, spring boot**
 
-- 💬 Ask me about **java, angular**
+- 💬 Ask me about **typescript, nestjs**
 
 - 📫 How to reach me **kouassi.oumar00@gmail.com**
 
