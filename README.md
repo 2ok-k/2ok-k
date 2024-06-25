@@ -8,10 +8,3 @@
 - 💬 Ask me about **typescript, nestjs**
 
 - 📫 How to reach me **kouassi.oumar00@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ouma_kouassi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ouma_kouassi" height="30" width="40" /></a>
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2ok-k&show_icons=true&locale=en" alt="2ok-k" /></p>
